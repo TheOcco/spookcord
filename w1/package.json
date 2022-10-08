@@ -1,0 +1,16 @@
+{
+  "name": "w1",
+  "version": "1.0.0",
+  "description": "spookcord's week 1 challenge (snake game)",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Lexxrt",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "keypress": "^0.2.1"
+  }
+}
