@@ -10,11 +10,11 @@
 > 
 > - How to install:
 > 
-> - 1) `git clone https://github.com/Lexxrt/spookcord`
+> 1) `git clone https://github.com/Lexxrt/spookcord`
 > 
-> - 2) `cd spookcord/w1 && npm i`
+> 2) `cd spookcord/w1 && npm i`
 > 
-> - 3) `node app.js`
+> 3) `node app.js`
 > 
 > - Preview:
 >   
